@@ -1,1 +1,1 @@
-# Manipule_o_DOM_com_JavaScript
+# Pequeno projeto TO-DO-LIST feito para entender como funciona o DOM
