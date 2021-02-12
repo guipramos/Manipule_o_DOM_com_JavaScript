@@ -121,7 +121,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin-bottom: 0.5rem;
-  padding: 1rem 3rem;
+  padding: 1rem 1rem;
 }
 
 .check-button, .delete-button {
