@@ -121,7 +121,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin-bottom: 0.5rem;
-  padding: 1rem 1rem;
+  padding: 1rem 3rem;
 }
 
 .check-button, .delete-button {
@@ -153,6 +153,14 @@ body {
 
 .content {
   margin: 0;
+}
+
+.content-data { 
+  color: #F6F1D1;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 0.5rem;
+  padding: 1rem 3rem;
 }
 
 .task.done .content {
